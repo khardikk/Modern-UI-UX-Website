@@ -9,7 +9,7 @@ const Clients = () => (
             <img src={client.logo} 
             alt="clients"
             className="sm:w-[192px] w-[100px]
-            ovject-contain" />
+            ovject-contain hover:filter hover:brightness-[100]" />
             </div>
               ))}
       </div>
